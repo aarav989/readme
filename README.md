@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aaravthompson"><img src="https://img.shields.io/github/followers/aaravthompson?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/aarav989"><img src="https://img.shields.io/github/followers/aaravthompson?label=Follow&style=social" alt="GitHub followers"></a>
   <img src="https://komarev.com/ghpvc/?username=aaravthompson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
